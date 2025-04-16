@@ -15,7 +15,7 @@ Each day, I'll share journal entries, photos, and reflections from the journey. 
 
 You can support my Camino and help fight Alzheimer's by donating here:
 
-👉 [JustGiving Fundraising Page](https://www.justgiving.com/fundraising/your-page)
+👉 [JustGiving Fundraising Page](https://www.justgiving.com/page/caminofund?utm_medium=FR&utm_source=CL&utm_campaign=015)
 
 ---
 
