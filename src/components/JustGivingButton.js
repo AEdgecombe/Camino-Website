@@ -8,7 +8,7 @@ function JustGivingButton() {
       rel="noopener noreferrer"
       className="justgiving-button"
     >
-      Support the Journey
+      JustGiving Page
     </a>
   );
 }
