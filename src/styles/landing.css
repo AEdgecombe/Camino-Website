@@ -1,4 +1,4 @@
-/* Layout wrapper */
+
 .landing-page {
   padding: 2rem;
 }
@@ -10,17 +10,17 @@
   color: #333;
 }
 
-/* Flex container for text and image */
+
 .landing-wrapper {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: flex-start;
+  align-items: stretch; 
   gap: 2rem;
   flex-wrap: wrap;
 }
 
-/* Text styling */
+
 .landing-text {
   flex: 1;
   max-width: 600px;
@@ -41,24 +41,26 @@
   font-weight: bold;
 }
 
-/* Image section */
+
 .landing-image {
   flex: 1;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: stretch;
   max-width: 400px;
 }
 
 .landing-img {
+  object-fit: cover;
   width: 100%;
+  height: 100%; 
   max-width: 350px;
-  height: auto;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-/* JustGiving button */
+
+
 .justgiving-button {
   background-color: #d9534f;
   color: white;
@@ -75,24 +77,23 @@
   background-color: #c9302c;
 }
 
-/* Responsive fallback */
+
 @media screen and (max-width: 768px) {
   .landing-wrapper {
     flex-direction: column;
     align-items: center;
-    text-align: center;
   }
 
   .landing-text, .landing-image {
     max-width: 90%;
     text-align: center;
+    height: auto; 
   }
 
   .landing-img {
+    width: 100%;
     max-width: 100%;
-  }
-
-  .landing-text {
-    text-align: center;
+    height: auto;
   }
 }
+
