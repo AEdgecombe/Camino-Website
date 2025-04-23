@@ -6,7 +6,7 @@ import caminoImage from '../assets/camino-landing.jpg'; // ✅ import it here
 function Landing() {
   return (
     <div className="landing-page">
-      <h1 className="landing-title">Walking the Camino – Oía to Santiago</h1>
+      <h1 className="section-title">Walking the Camino – Oía to Santiago</h1>
 
       <div className="landing-wrapper">
       <div className="landing-text">

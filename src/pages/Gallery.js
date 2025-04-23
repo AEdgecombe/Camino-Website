@@ -6,7 +6,8 @@ import GallerySlider from '../components/GallerySlider';
 function Gallery() {
   return (
     <div className="gallery-container">
-      <h2>Photo Gallery</h2>
+      <h2 className="section-title">Photo Gallery</h2>
+
       <GallerySlider images={galleryImages} />
     </div>
   );

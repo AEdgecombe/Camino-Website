@@ -12,9 +12,9 @@ function JournalEntry({ entry }) {
   }, [entry]);
 
   return (
-    <div className="journal-entry">
+    <div className="journal-entry card">
       <div className="entry-image-container">
-        <img src={entry.image} alt={entry.title} className="entry-image" />
+        <img src={entry.image} alt="Camino" className="entry-image" />
       </div>
       <div className="entry-text">
         <ReactMarkdown>{markdown}</ReactMarkdown>

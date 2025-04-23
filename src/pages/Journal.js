@@ -21,7 +21,7 @@ function Journal() {
 
   return (
     <div className="journal-page">
-      <h2 className="journal-title">Camino Journal</h2>
+      <h2 className="section-title">Camino Journal</h2>
 
       <JournalEntry entry={entry} />
 
