@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69aa80ed.css",
+    "main.js": "/static/js/main.9aae2e94.js",
+    "static/js/453.ca64d135.chunk.js": "/static/js/453.ca64d135.chunk.js",
+    "static/media/camino-landing.jpg": "/static/media/camino-landing.93dfefb93fbcbddea679.jpg",
+    "static/media/day1.jpg": "/static/media/day1.93dfefb93fbcbddea679.jpg",
+    "static/media/day2.jpg": "/static/media/day2.93dfefb93fbcbddea679.jpg",
+    "static/media/day3.jpg": "/static/media/day3.93dfefb93fbcbddea679.jpg",
+    "static/media/day4.jpg": "/static/media/day4.93dfefb93fbcbddea679.jpg",
+    "static/media/day5.jpg": "/static/media/day5.93dfefb93fbcbddea679.jpg",
+    "static/media/day6.jpg": "/static/media/day6.93dfefb93fbcbddea679.jpg",
+    "static/media/day7.jpg": "/static/media/day7.93dfefb93fbcbddea679.jpg",
+    "static/media/day8.jpg": "/static/media/day8.93dfefb93fbcbddea679.jpg",
+    "static/media/day9.jpg": "/static/media/day9.93dfefb93fbcbddea679.jpg",
+    "index.html": "/index.html",
+    "main.69aa80ed.css.map": "/static/css/main.69aa80ed.css.map",
+    "main.9aae2e94.js.map": "/static/js/main.9aae2e94.js.map",
+    "453.ca64d135.chunk.js.map": "/static/js/453.ca64d135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69aa80ed.css",
+    "static/js/main.9aae2e94.js"
+  ]
+}
