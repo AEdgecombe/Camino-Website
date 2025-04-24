@@ -1,13 +1,18 @@
-import day1Image from '../assets/day1.jpg';
-import day2Image from '../assets/day2.jpg';
+import neck from '../assets/neck.jpg';
+import shirt from '../assets/shirt.jpg';
+import shirts1 from '../assets/shirts1.jpg';
 
 export const galleryImages = [
   {
-    original: day1Image,
-    thumbnail: day1Image
+    original: shirts1,
+    thumbnail: shirts1
   },
   {
-    original: day2Image,
-    thumbnail: day2Image
+    original: shirt,
+    thumbnail: shirt
+  },
+  {
+    original: neck,
+    thumbnail: neck
   }
 ];

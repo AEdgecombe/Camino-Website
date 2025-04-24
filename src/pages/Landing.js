@@ -1,15 +1,15 @@
 import React from 'react';
 import '../styles/landing.css';
 import JustGivingButton from '../components/JustGivingButton';
-import caminoImage from '../assets/camino-landing.jpg'; // ✅ import it here
+import caminoImage from '../assets/shirts1.jpg';
 
 function Landing() {
   return (
     <div className="landing-page">
       <h1 className="section-title">Walking the Camino – Oía to Santiago</h1>
 
-      <div className="landing-wrapper">
-      <div className="landing-text">
+      <div className="landing-container">
+        <div className="landing-text">
           <p>This May, I’m walking the final stretch of the Camino de Santiago—from the coastal village of Oía to the city of Santiago de Compostela. It’s over 100km of coastline, hills, and soul-searching, and I’ll be doing it alongside my best friend, Josh.</p>
 
           <p><em>“The longest way round is the shortest way home.”</em> – James Joyce, <em>Ulysses</em></p>
@@ -26,15 +26,14 @@ function Landing() {
 
           <JustGivingButton />
         </div>
-        <div className="landing-image">
+
+        <div className="landing-img-container">
           <img 
             src={caminoImage} 
             alt="View from the Camino de Santiago route"
             className="landing-img"
           />
         </div>
-
-
       </div>
     </div>
   );

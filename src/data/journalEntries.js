@@ -1,12 +1,5 @@
-import day1Image from '../assets/day1.jpg';
-import day2Image from '../assets/day2.jpg';
-import day3Image from '../assets/day3.jpg';
-import day4Image from '../assets/day4.jpg';
-import day5Image from '../assets/day5.jpg';
-import day6Image from '../assets/day6.jpg';
-import day7Image from '../assets/day7.jpg';
-import day8Image from '../assets/day8.jpg';
-import day9Image from '../assets/day9.jpg';
+import shirts1 from '../assets/shirts1.jpg';
+
 
 export const journalEntries = [
   // {
@@ -46,7 +39,7 @@ export const journalEntries = [
   //   mdPath: '/journal/day9.md'
   // }
   {
-    image: day1Image,
+    image: shirts1,
     mdPath: '/journal/placeholder.md'
   }
 ];
