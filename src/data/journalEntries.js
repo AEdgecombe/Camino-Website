@@ -1,11 +1,11 @@
-import shirts1 from '../assets/shirts1.jpg';
 
+import day1 from '../assets/day1.jpg'
 
 export const journalEntries = [
-  // {
-  //   image: day1Image,
-  //   mdPath: '/journal/day1.md'
-  // },
+   {
+     image: day1,
+     mdPath: '/journal/day1.md'
+   }
   // {
   //   image: day2Image,
   //   mdPath: '/journal/day2.md'
@@ -38,8 +38,5 @@ export const journalEntries = [
   //   image: day9Image,
   //   mdPath: '/journal/day9.md'
   // }
-  {
-    image: shirts1,
-    mdPath: '/journal/placeholder.md'
-  }
+
 ];
