@@ -1,18 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.f20c3a8a.css",
-    "main.js": "/static/js/main.6b5dd048.js",
+    "main.js": "/static/js/main.0f27e5ef.js",
     "static/js/453.ca64d135.chunk.js": "/static/js/453.ca64d135.chunk.js",
+    "static/media/forest.jpg": "/static/media/forest.f16cad34fbedbbcdf54b.jpg",
+    "static/media/oyster.jpg": "/static/media/oyster.0a3478c312743da9ed55.jpg",
+    "static/media/path.jpg": "/static/media/path.769192ca5d15df319a4b.jpg",
+    "static/media/joshpic.jpg": "/static/media/joshpic.1c68b2fcbc0d76b953b1.jpg",
+    "static/media/mountain.jpg": "/static/media/mountain.e58dbf9dec857e6809d7.jpg",
+    "static/media/me.jpg": "/static/media/me.014205be40cb7815222e.jpg",
+    "static/media/day1.jpg": "/static/media/day1.4fc8b0872ca9619556db.jpg",
     "static/media/shirts1.jpg": "/static/media/shirts1.eccf7ef3f7458854c866.jpg",
+    "static/media/beer.jpg": "/static/media/beer.c8d2919cedf0b21e6288.jpg",
+    "static/media/view.jpg": "/static/media/view.40a999c30a5d3891c3ba.jpg",
     "static/media/neck.jpg": "/static/media/neck.c487ffaf8ff40956e840.jpg",
     "static/media/shirt.jpg": "/static/media/shirt.e72792de344b6b6984f3.jpg",
     "index.html": "/index.html",
     "main.f20c3a8a.css.map": "/static/css/main.f20c3a8a.css.map",
-    "main.6b5dd048.js.map": "/static/js/main.6b5dd048.js.map",
+    "main.0f27e5ef.js.map": "/static/js/main.0f27e5ef.js.map",
     "453.ca64d135.chunk.js.map": "/static/js/453.ca64d135.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f20c3a8a.css",
-    "static/js/main.6b5dd048.js"
+    "static/js/main.0f27e5ef.js"
   ]
 }
