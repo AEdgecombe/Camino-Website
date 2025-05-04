@@ -1,15 +1,17 @@
 
 import day1 from '../assets/day1.jpg'
+import day2 from '../assets/waterfall.jpg'
+
 
 export const journalEntries = [
    {
      image: day1,
      mdPath: '/journal/day1.md'
-   }
-  // {
-  //   image: day2Image,
-  //   mdPath: '/journal/day2.md'
-  // },
+   },
+   {
+     image: day2,
+     mdPath: '/journal/day2.md'
+   },
   // {
   //   image: day3Image,
   //   mdPath: '/journal/day3.md'

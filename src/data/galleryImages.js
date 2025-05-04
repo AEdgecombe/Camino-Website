@@ -9,6 +9,7 @@ import mountain from '../assets/mountain.jpg'
 import oyster from '../assets/oyster.jpg'
 import view from '../assets/view.jpg'
 import path from '../assets/path.jpg'
+import wf from '../assets/waterfall.jpg'
 
 export const galleryImages = [
   {
@@ -54,5 +55,9 @@ export const galleryImages = [
   {
     original: mountain,
     thumbnail: mountain
+  },
+  {
+    original: wf,
+    thumbnail: wf
   }
 ];
