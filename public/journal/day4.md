@@ -1,16 +1,12 @@
-# Day 4 – *In The Valley*
+# Day 4 – *The Light Between the Hills*
 
 > “They say that the best blaze burns brightest when circumstances are at their worst.”  
 > – *Howl’s Moving Castle*
 
-A shorter walk today. A gift. 
+A shorter walk today, which we needed. Our legs were sore but manageable.
 
-Our legs were stiff, but still holding. The kind of ache that reminds you you’re alive. We started slow—coffee and *pan con aceite y tomate* for breakfast, simple and right. Then out of Pontevedra, across the long stone bridge, leaving the town behind in a morning haze.
+Breakfast was coffee and *pan con aceite y tomate*. We crossed the long bridge out of Pontevedra and kept a steady pace. The road was easier, less uphill, just quiet.
 
-The road flattened. The trees pulled back. For a while we just walked. No great hills, no suffering. Just quiet steps, conversation, birdsong, and the gravel underfoot.
+Stopped for lunch—*bocadillo de chorizo* and five pints between us. The barman laughed at us but poured them anyway.
 
-We stopped halfway for a *bocadillo de chorizo*. The barman laughed when we ordered five pints each—*“Cinco?”* he said, shaking his head, but he poured them anyway. Cold beer and salty sausage. The kind of lunch that makes you forget you’ve walked four days already.
-
-We reached Caldas de Reis in the afternoon. A quiet town, tucked low between green hills and slow rivers. Humble. Still. Not much happening, and that felt good.
-
-Tonight we eat. We drink. We rest. And for the first time, it feels like we’ve earned a little stillness.
+Caldas de Reis is a small town, peaceful and slow. We’ll rest well here. Not much to say—just glad to stop moving for a while.

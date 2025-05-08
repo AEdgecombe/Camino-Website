@@ -3,6 +3,7 @@ import day1 from '../assets/day1.jpg'
 import day2 from '../assets/waterfall.jpg'
 import day3 from '../assets/shell.jpg'
 import day4 from '../assets/forest.jpg'
+import day5 from '../assets/cdr.jpg'
 
 
 export const journalEntries = [
@@ -22,10 +23,10 @@ export const journalEntries = [
      image: day4,
      mdPath: '/journal/day4.md'
    },
-  // {
-  //   image: day5Image,
-  //   mdPath: '/journal/day5.md'
-  // },
+   {
+     image: day5,
+     mdPath: '/journal/day5.md'
+   },
   // {
   //   image: day6Image,
   //   mdPath: '/journal/day6.md'

@@ -10,6 +10,7 @@ import oyster from '../assets/oyster.jpg'
 import view from '../assets/view.jpg'
 import path from '../assets/path.jpg'
 import wf from '../assets/waterfall.jpg'
+import cdr from '../assets/cdr.jpg'
 
 export const galleryImages = [
   {
@@ -59,5 +60,9 @@ export const galleryImages = [
   {
     original: wf,
     thumbnail: wf
+  },
+  {
+    original: cdr,
+    thumbnail: cdr
   }
 ];
