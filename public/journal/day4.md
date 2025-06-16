@@ -9,4 +9,4 @@ Breakfast was coffee and pan con aceite y tomate, as usual. We crossed the long 
 
 We stopped for lunch along the way, then carried on through gentle woodland paths and small villages.
 
-Caldas de Reis is peaceful. A slow, quiet town. We’ll rest here tonight. Nothing remarkable to report—just the calm satisfaction of stopping.
+Caldas de Reis is peaceful. A slow, quiet town. We’ll rest here tonight. Nothing remarkable to report— just the calm satisfaction of stopping.
