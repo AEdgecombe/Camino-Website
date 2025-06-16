@@ -12,12 +12,15 @@ function JournalEntry({ entry }) {
   }, [entry]);
 
   return (
-    <div className="journal-entry card">
-      <div className="entry-image-container">
-        <img src={entry.image} alt="Camino" className="entry-image" />
-      </div>
-      <div className="entry-text">
-        <ReactMarkdown>{markdown}</ReactMarkdown>
+    <div
+      className="journal-entry-bg"
+      style={{ backgroundImage: `url(${entry.image})` }}
+    >
+      <div className="journal-entry-overlay" />
+      <div className="journal-entry-content">
+        <div className="entry-text">
+          <ReactMarkdown>{markdown}</ReactMarkdown>
+        </div>
       </div>
     </div>
   );

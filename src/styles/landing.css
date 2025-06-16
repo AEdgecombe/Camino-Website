@@ -130,3 +130,10 @@
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
+
+.donation-highlight {
+  font-size: 1.15rem;
+  color: #00703c; /* a calm green tone suggesting growth/hope */
+  margin: 1.5rem 0;
+  text-align: left;
+}

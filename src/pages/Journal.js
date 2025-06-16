@@ -20,21 +20,26 @@ function Journal() {
   };
 
   return (
-    <div className="journal-page">
-      <h2 className="section-title">Camino Journal</h2>
+    <>
+      <div className="journal-page">
+        <h2 className="section-title">Camino Journal</h2>
+      </div>
 
+      {/* Let JournalEntry go full screen */}
       <JournalEntry entry={entry} />
 
-      <div className="journal-navigation">
-        <button onClick={prevEntry} disabled={currentIndex === 0}>
-          ← Previous
-        </button>
-        <span>{currentIndex + 1} / {journalEntries.length}</span>
-        <button onClick={nextEntry} disabled={currentIndex === journalEntries.length - 1}>
-          Next →
-        </button>
+      <div className="journal-page">
+        <div className="journal-navigation">
+          <button onClick={prevEntry} disabled={currentIndex === 0}>
+            ← Previous
+          </button>
+          <span>{currentIndex + 1} / {journalEntries.length}</span>
+          <button onClick={nextEntry} disabled={currentIndex === journalEntries.length - 1}>
+            Next →
+          </button>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 

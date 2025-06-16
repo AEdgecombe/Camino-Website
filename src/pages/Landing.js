@@ -10,19 +10,20 @@ function Landing() {
 
       <div className="landing-container">
         <div className="landing-text">
-          <p>This May, I’m walking the final stretch of the Camino de Santiago—from the coastal village of Oía to the city of Santiago de Compostela. It’s over 100km of coastline, hills, and soul-searching, and I’ll be doing it alongside my best friend, Josh.</p>
+        <p>In May, my best friend Josh and I walked the final stretch of the Camino de Santiago—from the coastal village of Oía to the city of Santiago de Compostela. In the end, we covered over <strong>180km</strong> of coastline, hills, and quiet reflection.</p>
 
-          <p><em>“The longest way round is the shortest way home.”</em> – James Joyce, <em>Ulysses</em></p>
+        <p><em>“The longest way round is the shortest way home.”</em> – James Joyce, <em>Ulysses</em></p>
 
-          <p>This walk feels like that. A long road to something essential.</p>
+        <p>This journey felt exactly like that. A long road to something essential.</p>
 
-          <p>We’re walking for all those affected. For all the memories lost to Alzheimer’s. For the stories that were never finished, the faces that became unfamiliar, the love that endured even when recognition faded. And for the countless others who have been impacted by this disease.</p>
+        <p>We walked for everyone affected by Alzheimer’s. For the memories lost, the stories left unfinished, the faces that faded, and the love that endured through it all. And for the many others who carry the weight of this disease every day.</p>
 
-          <p>We’re raising money for Alzheimer’s Research UK, a charity dedicated to finding a cure and changing the future for families around the globe. Every donation goes directly to their work—and every pound helps.</p>
+        <p>Together, with your incredible support, we raised <strong className="donation-highlight">£1,822</strong> (with their inclusion of Gift Aid) for <strong className="donation-highlight">Alzheimer’s Research UK</strong>—a charity working to change the future for families everywhere.</p>
 
-          <p>If you believe in symbolic journeys, strange epiphanies, or just want to support a good cause (or two tired pilgrims), we’d be truly grateful.</p>
+        <p><strong>Thank you for every donation, message, and step we didn’t take alone. It meant the world to us.</strong></p>
 
-          <p><strong>Thank you.</strong><br />– Alex & Josh</p>
+        <p>– Alex & Josh</p>
+
 
           <JustGivingButton />
         </div>
