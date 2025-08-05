@@ -1,5 +1,7 @@
 # Camino de Santiago Journal – Oia to Santiago
 
+https://lostbutblogging.com/
+
 This is my personal journal site documenting my walk along the **Camino de Santiago**, starting from **Oia** and ending in **Santiago de Compostela**.
 
 Each day, I'll share journal entries, photos, and reflections from the journey. This site also serves as a place to raise awareness and funds for **Alzheimer's research**, a cause that means a lot to me and my family.
