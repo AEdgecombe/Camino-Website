@@ -1,5 +1,7 @@
 # Camino de Santiago Journal – Oia to Santiago
 
+(My first ever React App)
+
 https://lostbutblogging.com/
 
 This is my personal journal site documenting my walk along the **Camino de Santiago**, starting from **Oia** and ending in **Santiago de Compostela**.
